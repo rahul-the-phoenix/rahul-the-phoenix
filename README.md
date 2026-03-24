@@ -1,7 +1,12 @@
 <h1 align="center">
   <p align="center">
-    <img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=200&section=header&text=Rahul%20Manna&fontSize=80&animation=fadeIn" width="100%" alt="Rahul Manna Header" 
-      style="border-radius: 15px; box-shadow: inset 0 -50px 100px rgba(0, 0, 0, 0.4);" />
+
+  <tr>
+    <td align="center" style="background: linear-gradient(45deg, #f3ec78, #af4261); padding: 5px; border-radius: 15px;">
+      <img src="assets/myprofile.jpeg" width="100%" style="border-radius: 10px; display: block;" alt="Rahul Manna" />
+    </td>
+  </tr>
+</table>
   </p>
 
   <img src="https://readme-typing-svg.herokuapp.com?font=Unbounded&weight=800&size=36&duration=1200&pause=400&color=00D2FF&center=true&vCenter=true&width=850&lines=01010010+01000010+01001000+01010101+01001100;Hey+there+👋;I'm+Rahul+Manna;Embedded+Systems+Developer;IoT+Enthusiast;The+Phoenix+is+Rising...;%3CERROR%3E+LOADING...;System+Online+✅" />
@@ -107,7 +112,7 @@ I perform well in high-pressure environments and value teamwork in transforming 
 <p align="center">
   <a href="https://www.linkedin.com/in/rahul-manna-98980039b/"><img src="assets/linkedin2.jpeg" width="45"/></a>
   &nbsp;&nbsp;
-  <a href="mailto:r4236499@gmail.com"><img src="assets/gmail2.jpeg" width="45"/></a>
+  <a href="mailto:r4236499@gmail.com"><img src="assets/gmail2.jpeg" width="65"/></a>
   &nbsp;&nbsp;
   <a href="https://github.com/rahul-the-phoenix"><img src="assets/github2.jpeg" width="45"/></a>
   &nbsp;&nbsp;
@@ -115,10 +120,9 @@ I perform well in high-pressure environments and value teamwork in transforming 
   &nbsp;&nbsp;
   <a href="#"><img src="assets/X2.jpeg" width="45"/></a>
 </p>
-    </td>
     <td width="40%" align="center" valign="middle" style="border: none;">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=rahul-the-phoenix&theme=tokyonight&hide_border=true" width="100%" alt="GitHub Streak Stats" />
-    </td>
+  <img src="assets/phoenix-adarna.gif" width="60%" alt="Phoenix Animation" />
+</td>
   </tr>
 </table>
 
