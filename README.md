@@ -1,69 +1,127 @@
-# Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7W/giphy.gif" width="25px">
+<h1 align="center">
+  <p align="center">
+    <img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=200&section=header&text=Rahul%20Manna&fontSize=80&animation=fadeIn" width="100%" alt="Rahul Manna Header" 
+      style="border-radius: 15px; box-shadow: inset 0 -50px 100px rgba(0, 0, 0, 0.4);" />
+  </p>
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=F7DF1E&center=true&vCenter=true&width=600&lines=I'm+Rahul+Manna;CSE+Student;Embedded+Systems+&amp;+IoT+Enthusiast;" alt="Typing SVG" />
-</div>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Unbounded&weight=800&size=36&duration=1200&pause=400&color=00D2FF&center=true&vCenter=true&width=850&lines=01010010+01000010+01001000+01010101+01001100;Hey+there+👋;I'm+Rahul+Manna;Embedded+Systems+Developer;IoT+Enthusiast;The+Phoenix+is+Rising...;%3CERROR%3E+LOADING...;System+Online+✅" />
+</h1>
+
+<table style="border: none; border-collapse: collapse; width: 100%;">
+  <tr>
+    <td width="60%" valign="top" style="border: none;">
+      <h2 align="center">🌟 About Me</h2>
+
+I’m <b>Rahul Manna</b>, a Computer Science and Engineering student pursuing my B.Tech at <b>MCKV Institute of Engineering</b>.
+
+ I enjoy solving problems, building software, and strengthening my core fundamentals. My primary focus lies in <b>Data Structures and Algorithms</b>, backed by 10+ hands-on projects that reflect both consistency and practical understanding.
+
+I specialize in developing smart systems using <b>ESP32, Arduino, and microcontrollers</b>. I’m particularly passionate about bridging the physical and digital worlds—whether through designing and implementing <b>IoT-based home automation systems</b>, developing embedded hardware projects, or creating retro-style games.
+
+I perform well in high-pressure environments and value teamwork in transforming ideas into practical, real-world solutions. I also emphasize <b>design and creativity</b>, striving to build systems that are both efficient and intuitive.
+
+---
+
+<h3>🏆 Achievements</h3>
+
+- 🥇 <b>Winner</b> – Innovative Model Competition @ MCKV Institute of Engineering  
+- 🥈 <b>Second Runner-Up</b> – Microshift @ MCKV Institute of Engineering  
+- 🥈 <b>Second Runner-Up</b> – Model Competition @ Juktimon Science Center  
+
+    </td>
+
+    <td width="40%" align="center" valign="middle" style="border: none;">
+      <img src="assets/boy2.jpeg" width="85%" style="border-radius: 15px;" alt="Developer Illustration" />
+      <br><br>
+      <img src="assets/robo2.jpeg" width="85%" style="border-radius: 15px;" alt="Robot Illustration" />
+    </td>
+  </tr>
+</table>
+
+<table width="100%" style="border-collapse: collapse; table-layout: fixed;">
+  <tr>
+    <td align="center" valign="top" style="padding: 20px; border: 1px solid #30363d; border-radius: 10px;">
+      <h3 align="center">💻 Programming</h3>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="35" height="35"/>&nbsp;
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="35" height="35"/>&nbsp;
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="35" height="35"/>&nbsp;
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="35" height="35"/>
+      <br>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="35" height="35"/>&nbsp;
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="35" height="35"/>&nbsp;
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="35" height="35"/>&nbsp;
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="35" height="35"/>
+    </td>
+    <td align="center" valign="top" style="padding: 20px; border: 1px solid #30363d; border-radius: 10px;">
+      <h3 align="center">🛠️ Hardware & IoT</h3>
+      <img src="https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white" height="22"/>&nbsp;
+      <img src="https://img.shields.io/badge/ESP32-E7352C?style=flat&logo=espressif&logoColor=white" height="22"/>&nbsp;
+      <img src="https://img.shields.io/badge/RPi-A22846?style=flat&logo=raspberry-pi&logoColor=white" height="22"/>
+      <br>
+      <img src="https://img.shields.io/badge/MQTT-660066?style=flat&logo=mqtt&logoColor=white" height="22"/>&nbsp;
+      <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" height="22"/>&nbsp;
+      <img src="https://img.shields.io/badge/MicroPython-2B2728?style=flat&logo=micropython&logoColor=white" height="22"/>
+    </td>
+    <td align="center" valign="top" style="padding: 20px; border: 1px solid #30363d; border-radius: 10px;">
+      <h3 align="center">🧠 Tools & Tech</h3>
+      <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" height="22"/>&nbsp;
+      <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" height="22"/>&nbsp;
+      <img src="https://img.shields.io/badge/Blynk-24E0D1?style=flat&logo=blynk&logoColor=white" height="22"/>
+      <br>
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" height="22"/>&nbsp;
+      <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white" height="22"/>&nbsp;
+      <img src="https://img.shields.io/badge/Gemini-4285F4?style=flat&logo=google-gemini&logoColor=white" height="22"/>
+    </td>
+  </tr>
+</table>
+
+<h2 align="center">📊 GitHub at a Glance</h2>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjR2NGd5ZmoxZnNjNDY5Z3ZlMmNqcmR2Z2NjNmhxOXc5YjZubTRtZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3RnP2cvRnd4NmN1bHNiRW5nSjZZNDZ6/Fwx6culsbEngJ6Y46z/giphy.gif" width="300" alt="Pixel Art">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rahul-the-phoenix&theme=codeSTACKr&hide_border=true" height="350" />
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rahul-the-phoenix&theme=codeSTACKr" height="150"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rahul-the-phoenix&theme=codeSTACKr" height="150"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rahul-the-phoenix&theme=xcode&hide_border=true" width="700" />
 </p>
 
----
+<table style="border: none; border-collapse: collapse; width: 100%;">
+  <tr>
+    <td width="60%" valign="top" style="border: none;">
+      <h2 align="center">🧠 Beyond the Silicon</h2>
 
-### <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmxlNWw1Nmlub3Jxdm15Ync5bmNjMm1oOWZibGtjZmJ2Nm1hNTM3cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3RnP2cvSjZZNDZ6SjZZNDZ6/J6S4z0zS4z0z/giphy.gif" width="30"> About Me
+<p align="center">
+  I build with logic, design with intent, and learn by breaking things.<br/>
+  Code is the tool. Thinking is the skill.
+</p>
 
-I’m **Rahul Manna**, a passionate **Computer Science and Engineering** student with a deep interest in building smart hardware and software solutions. Currently exploring the intersection of **IoT** and **Embedded Systems**.
+<p align="center">
+  🚀 Member of <b>Team 'Binary Force'</b><br/>
+  🧩 Problem solver by habit, hardware hacker by instinct.
+</p>
 
-- 🔭 Working on **ESP32 based Smart Devices** & Retro Game Emulators.
-- 🌱 Strengthening my fundamentals in **Data Structures and Algorithms (DSA)**.
-- 👯 Looking to collaborate on open-source **IoT projects** and **AI integrations**.
-- 💬 Ask me about **Microcontrollers** or **Python Automation**.
+<h3 align="center">🌐 Let’s Connect</h3>
+<p align="center">
+  <a href="https://www.linkedin.com/in/rahul-manna-98980039b/"><img src="assets/linkedin2.jpeg" width="45"/></a>
+  &nbsp;&nbsp;
+  <a href="mailto:r4236499@gmail.com"><img src="assets/gmail2.jpeg" width="45"/></a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/rahul-the-phoenix"><img src="assets/github2.jpeg" width="45"/></a>
+  &nbsp;&nbsp;
+  <a href="#"><img src="assets/instagram2.jpeg" width="45"/></a>
+  &nbsp;&nbsp;
+  <a href="#"><img src="assets/X2.jpeg" width="45"/></a>
+</p>
+    </td>
+    <td width="40%" align="center" valign="middle" style="border: none;">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=rahul-the-phoenix&theme=tokyonight&hide_border=true" width="100%" alt="GitHub Streak Stats" />
+    </td>
+  </tr>
+</table>
 
----
-
-### <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmFhZmxwNmxxdmN4Ync5bmNjMm1oOWZibGtjZmJ2Nm1hNTM3cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3RnP2cvSjZZNDZ6SjZZNDZ6/J6S4z0zS4z0z/giphy.gif" width="30"> Tech Stack
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
-  
-  <br><br>
-
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" alt="arduino" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-  
-  <br><br>
-
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" alt="googlecloud" width="40" height="40"/>
-</div>
-
----
-
-### <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmFhZmxwNmxxdmN4Ync5bmNjMm1oOWZibGtjZmJ2Nm1hNTM3cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3RnP2cvSjZZNDZ6SjZZNDZ6/J6S4z0zS4z0z/giphy.gif" width="30"> GitHub at a Glance
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rahul-the-phoenix&show_icons=true&theme=radical&count_private=true&hide_border=true" alt="Rahul's GitHub Stats" />
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahul-the-phoenix&layout=compact&theme=radical&hide_border=true&langs_count=6" alt="Top Languages" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rahul-the-phoenix&theme=radical&hide_border=true" alt="GitHub Streak" />
-</div>
-
----
-
-### <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmFhZmxwNmxxdmN4Ync5bmNjMm1oOWZibGtjZmJ2Nm1hNTM3cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3RnP2cvSjZZNDZ6SjZZNDZ6/J6S4z0zS4z0z/giphy.gif" width="30"> Connect with me
-
-<div align="center">
-<a href="mailto:r4236499@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
-<a href="https://linkedin.com/in/YOUR-LINKEDIN-USERNAME"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Unbounded&weight=600&size=18&duration=1&pause=1000000&color=D4A574&center=true&vCenter=true&width=800&lines=✨+This+README+is+crafted+with+intent+by+Rahul+Manna+✨" />
+</p>
