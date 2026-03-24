@@ -45,30 +45,32 @@ I perform well in high-pressure environments and value teamwork in transforming 
 
 <table width="100%" style="border-collapse: collapse; table-layout: fixed;">
   <tr>
-    <td align="center" valign="top" style="padding: 20px; border: 1px solid #30363d; border-radius: 10px;">
-      <h3 align="center">💻 Programming</h3>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="35" height="35"/>&nbsp;
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="35" height="35"/>&nbsp;
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="35" height="35"/>&nbsp;
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="35" height="35"/>
+    <td align="center" valign="top" style="padding: 50px; border: 1px solid #30363d; border-radius: 10px;">
+      <h3 align="center">💻 Programming Languages  </h3>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="50" height="40"/>&nbsp;
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="50" height="40"/>&nbsp;
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50" height="40"/>&nbsp;
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="50" height="40"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="50" height="35"/>&nbsp;
       <br>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="35" height="35"/>&nbsp;
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="35" height="35"/>&nbsp;
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="35" height="35"/>&nbsp;
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="35" height="35"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50" height="35"/>&nbsp;
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="50" height="35"/>&nbsp;
     </td>
-    <td align="center" valign="top" style="padding: 20px; border: 1px solid #30363d; border-radius: 10px;">
-      <h3 align="center">🛠️ Hardware & IoT</h3>
-      <img src="https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white" height="22"/>&nbsp;
-      <img src="https://img.shields.io/badge/ESP32-E7352C?style=flat&logo=espressif&logoColor=white" height="22"/>&nbsp;
-      <img src="https://img.shields.io/badge/RPi-A22846?style=flat&logo=raspberry-pi&logoColor=white" height="22"/>
-      <br>
-      <img src="https://img.shields.io/badge/MQTT-660066?style=flat&logo=mqtt&logoColor=white" height="22"/>&nbsp;
-      <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" height="22"/>&nbsp;
-      <img src="https://img.shields.io/badge/MicroPython-2B2728?style=flat&logo=micropython&logoColor=white" height="22"/>
+    <td align="center" valign="top" style="padding: 50px; border: 1px solid #30363d; border-radius: 10px;">
+      <h3 align="center"> 🛠️ Hardware & IoT Workshop  </h3>
+<p align="center">
+  <img src="assets/linux.jpeg" width="45" alt="Linux"/>&nbsp;
+  <img src="assets/mqtt.jpeg" width="45" alt="MQTT"/>&nbsp;
+  <img src="assets/micropython.jpeg" width="45" alt="MicroPython"/>&nbsp; 
+  <img src="assets/rasberry pi.jpeg" width="45" alt="Raspberry Pi"/>&nbsp;
+  <img src="assets/arduino ide.jpeg" width="45" alt="Arduino IDE"/>&nbsp;
+  <img src="assets/esp32.jpeg" width="45" alt="ESP32"/>&nbsp;
+  <img src="assets/wowkii.jpeg" width="45" alt="Wokwi"/>
+</p>
     </td>
-    <td align="center" valign="top" style="padding: 20px; border: 1px solid #30363d; border-radius: 10px;">
-      <h3 align="center">🧠 Tools & Tech</h3>
+    <td align="center" valign="top" style="padding: 50px; border: 1px solid #30363d; border-radius: 10px;">
+      <h3 align="center"> 🧠  Creative Tools & Tech</h3>
       <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" height="22"/>&nbsp;
       <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" height="22"/>&nbsp;
       <img src="https://img.shields.io/badge/Blynk-24E0D1?style=flat&logo=blynk&logoColor=white" height="22"/>
