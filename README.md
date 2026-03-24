@@ -9,7 +9,7 @@
 </table>
   </p>
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Unbounded&weight=800&size=36&duration=1200&pause=400&color=00D2FF&center=true&vCenter=true&width=850&lines=01010010+01000010+01001000+01010101+01001100;Hey+there+👋;I'm+Rahul+Manna;Embedded+Systems+Developer;IoT+Enthusiast;The+Phoenix+is+Rising...;%3CERROR%3E+LOADING...;System+Online+✅" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Unbounded&weight=800&size=36&duration=1600&pause=600&color=00D2FF&center=true&vCenter=true&width=850&lines=01010010+01000010+01001000+01010101+01001100;Hey+there+👋;This+is+Rahul+Manna;Aspiring+Software+Developer;IoT+Automation+Enthusiast+🤖;%3C<ERROR>%3E+LOADING...;The+Phoenix+is+Rising+🐦‍🔥...;System+Online+✅" />
 </h1>
 
 <table style="border: none; border-collapse: collapse; width: 100%;">
@@ -29,9 +29,10 @@ I perform well in high-pressure environments and value teamwork in transforming 
 
 <h3>🏆 Achievements</h3>
 
-- 🥇 <b>Winner</b> – Innovative Model Competition @ MCKV Institute of Engineering  
+- 🥇 <b>Winner</b> – Innovative Model Competition @ MCKV Institute of Engineering
+- 🥈 <b>First Runner-Up</b> – Model Competition @ Juktimon Science Center 
 - 🥈 <b>Second Runner-Up</b> – Microshift @ MCKV Institute of Engineering  
-- 🥈 <b>Second Runner-Up</b> – Model Competition @ Juktimon Science Center  
+ 
 
     </td>
 
@@ -58,31 +59,35 @@ I perform well in high-pressure environments and value teamwork in transforming 
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="50" height="35"/>&nbsp;
     </td>
     <td align="center" valign="top" style="padding: 50px; border: 1px solid #30363d; border-radius: 10px;">
-      <h3 align="center"> 🛠️ Hardware & IoT Workshop  </h3>
-<p align="center">
-   <img src="assets/arduino ide.jpeg" width="45" alt="Arduino IDE"/>&nbsp;
-   <img src="assets/rasberry pi.jpeg" width="45" alt="Raspberry Pi"/>&nbsp;
-   <img src="assets/wowki3.jpeg" width="45" alt="Wowki"/>&nbsp;
-  <img src="assets/mqtt.jpeg" width="55" alt="MQTT"/>&nbsp;
-  <img src="assets/micropython.jpeg" width="52" alt="MicroPython"/>&nbsp; 
-  <img src="assets/esp32.jpeg" width="45" alt="ESP32"/>&nbsp;
-  
-  <img src="assets/blynk4.jpeg" width="45" alt="BLYNK"/>&nbsp;
-  <img src="assets/jlcpcb4.jpeg" width="45" alt="jlcpcb"/>&nbsp;
-  <img src="assets/multisim.jpeg" width="45" alt="multisim"/>&nbsp;
-  <img src="assets/particle4.jpeg" width="45" alt="particle"/>&nbsp;
+      <h3 align="center"> 🧠  Tools & Platforms</h3>
+       <img src="assets/vscode.jpeg" width="45" alt="Vscode"/>&nbsp;
+   <img src="assets/git.jpeg" width="45" alt="git"/>&nbsp;
+   <img src="assets/matlab5.jpeg" width="40" alt="matlab"/>&nbsp;
+  <img src="assets/numpy5.jpeg" width="45" alt="numpy"/>&nbsp;
+  <img src="assets/linux.jpeg" width="45" alt="Linux"/>&nbsp;
+ 
+  <img src="assets/vercel5.jpeg" width="40" alt="vercel"/>&nbsp; 
+  <img src="assets/mysql.jpeg" width="45" alt="mysql"/>&nbsp;
+    <img src="assets/micropython.jpeg" width="57" alt="MicroPython"/>&nbsp;   
   
 </p>
     </td>
     <td align="center" valign="top" style="padding: 50px; border: 1px solid #30363d; border-radius: 10px;">
-      <h3 align="center"> 🧠  Creative Tools & Tech</h3>
-      <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" height="22"/>&nbsp;
-      <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" height="22"/>&nbsp;
-      <img src="https://img.shields.io/badge/Blynk-24E0D1?style=flat&logo=blynk&logoColor=white" height="22"/>
-      <br>
-      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" height="22"/>&nbsp;
-      <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white" height="22"/>&nbsp;
-      <img src="https://img.shields.io/badge/Gemini-4285F4?style=flat&logo=google-gemini&logoColor=white" height="22"/>
+      <h3 align="center"> 🛠️ Creative Tools, Hardware & IoT </h3>
+
+<p align="center">
+  <img src="assets/vn5.jpeg" width="45" alt="VN"/>&nbsp;
+   <img src="assets/capcut.jpeg" width="49" alt="Capcut"/>&nbsp;
+   <img src="assets/arduino ide.jpeg" width="45" alt="Arduino IDE"/>&nbsp;
+     <img src="assets/jlcpcb4.jpeg" width="37" alt="jlcpcb"/>&nbsp;
+   <img src="assets/wowki3.jpeg" width="45" alt="Wowki"/>&nbsp;
+     <img src="assets/particle4.jpeg" width="40" alt="particle"/>&nbsp;
+  
+  <img src="assets/esp32.jpeg" width="45" alt="ESP32"/>&nbsp;
+  <img src="assets/blynk4.jpeg" width="40" alt="BLYNK"/>&nbsp;
+  <img src="assets/rasberry pi.jpeg" width="45" alt="Raspberry Pi"/>&nbsp;
+  <img src="assets/multisim.jpeg" width="40" alt="multisim"/>&nbsp;
+  <img src="assets/powerpoint5.jpeg" width="45" alt="powerpoint"/>&nbsp;
     </td>
   </tr>
 </table>
@@ -119,7 +124,7 @@ I perform well in high-pressure environments and value teamwork in transforming 
 <p align="center">
   <a href="https://www.linkedin.com/in/rahul-manna-98980039b/"><img src="assets/linkedin2.jpeg" width="45"/></a>
   &nbsp;&nbsp;
-  <a href="mailto:r4236499@gmail.com"><img src="assets/gmail2.jpeg" width="65"/></a>
+  <a href="mailto:rahulmanna3892@gmail.com"><img src="assets/gmail2.jpeg" width="65"/></a>
   &nbsp;&nbsp;
   <a href="https://github.com/rahul-the-phoenix"><img src="assets/github2.jpeg" width="45"/></a>
   &nbsp;&nbsp;
