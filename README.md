@@ -67,9 +67,10 @@ I perform well in high-pressure environments and value teamwork in transforming 
   <img src="assets/micropython.jpeg" width="52" alt="MicroPython"/>&nbsp; 
   <img src="assets/esp32.jpeg" width="45" alt="ESP32"/>&nbsp;
   
-  <img src="assets/blynk.jpeg" width="65" alt="BLYNK"/>&nbsp;
-  <img src="assets/jlcpcb.jpeg" width="45" alt="jlcpcb"/>&nbsp;
+  <img src="assets/blynk4.jpeg" width="45" alt="BLYNK"/>&nbsp;
+  <img src="assets/jlcpcb4.jpeg" width="45" alt="jlcpcb"/>&nbsp;
   <img src="assets/multisim.jpeg" width="45" alt="multisim"/>&nbsp;
+  <img src="assets/particle4.jpeg" width="45" alt="particle"/>&nbsp;
   
 </p>
     </td>
