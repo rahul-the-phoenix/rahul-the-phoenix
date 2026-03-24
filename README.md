@@ -60,13 +60,17 @@ I perform well in high-pressure environments and value teamwork in transforming 
     <td align="center" valign="top" style="padding: 50px; border: 1px solid #30363d; border-radius: 10px;">
       <h3 align="center"> 🛠️ Hardware & IoT Workshop  </h3>
 <p align="center">
-  <img src="assets/linux.jpeg" width="45" alt="Linux"/>&nbsp;
-  <img src="assets/mqtt.jpeg" width="45" alt="MQTT"/>&nbsp;
-  <img src="assets/micropython.jpeg" width="45" alt="MicroPython"/>&nbsp; 
-  <img src="assets/rasberry pi.jpeg" width="45" alt="Raspberry Pi"/>&nbsp;
-  <img src="assets/arduino ide.jpeg" width="45" alt="Arduino IDE"/>&nbsp;
+   <img src="assets/arduino ide.jpeg" width="45" alt="Arduino IDE"/>&nbsp;
+   <img src="assets/rasberry pi.jpeg" width="45" alt="Raspberry Pi"/>&nbsp;
+   <img src="assets/wowki3.jpeg" width="45" alt="Wowki"/>&nbsp;
+  <img src="assets/mqtt.jpeg" width="55" alt="MQTT"/>&nbsp;
+  <img src="assets/micropython.jpeg" width="52" alt="MicroPython"/>&nbsp; 
   <img src="assets/esp32.jpeg" width="45" alt="ESP32"/>&nbsp;
-  <img src="assets/wowkii.jpeg" width="45" alt="Wokwi"/>
+  
+  <img src="assets/blynk.jpeg" width="65" alt="BLYNK"/>&nbsp;
+  <img src="assets/jlcpcb.jpeg" width="45" alt="jlcpcb"/>&nbsp;
+  <img src="assets/multisim.jpeg" width="45" alt="multisim"/>&nbsp;
+  
 </p>
     </td>
     <td align="center" valign="top" style="padding: 50px; border: 1px solid #30363d; border-radius: 10px;">
