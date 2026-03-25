@@ -21,7 +21,7 @@ I’m <b>Rahul Manna</b>, a Computer Science and Engineering student pursuing my
 
  I enjoy solving problems, building software, and strengthening my core fundamentals. My primary focus lies in <b>Data Structures and Algorithms</b>, backed by 10+ hands-on projects that reflect both consistency and practical understanding.
 
-I specialize in developing smart systems using <b>ESP32, Arduino, and microcontrollers</b>. I’m particularly passionate about bridging the physical and digital worlds—whether through designing and implementing <b>IoT-based home automation systems</b>, developing embedded hardware projects, or creating retro-style games.
+I also specialize in developing smart systems using <b>ESP32, Arduino, and microcontrollers</b>, bridging the physical and digital worlds through <b>IoT-based home automation</b> and embedded hardware projects tailored to project requirements.
 
 I perform well in high-pressure environments and value teamwork in transforming ideas into practical, real-world solutions. I also emphasize <b>design and creativity</b>, striving to build systems that are both efficient and intuitive.
 
@@ -111,13 +111,13 @@ I perform well in high-pressure environments and value teamwork in transforming 
       <h2 align="center">🧠 Beyond the Silicon</h2>
 
 <p align="center">
-  I build with logic, design with intent, and learn by breaking things.<br/>
-  Code is the tool. Thinking is the skill.
+  I craft with precision, think with clarity, and improve by iterating.<br/>
+ Thinking is the skill. Curiosity is the edge.
 </p>
 
 <p align="center">
   🚀 Member of <b>Team 'Binary Force'</b><br/>
-  🧩 Problem solver by habit, hardware hacker by instinct.
+  🧩 Problem solver by habit, Engineer by mindset..
 </p>
 
 <h3 align="center">🌐 Let’s Connect</h3>
@@ -133,7 +133,7 @@ I perform well in high-pressure environments and value teamwork in transforming 
   <a href="#"><img src="assets/X2.jpeg" width="45"/></a>
 </p>
     <td width="40%" align="center" valign="middle" style="border: none;">
-  <img src="assets/phoenix-adarna.gif" width="60%" alt="Phoenix Animation" />
+  <img src="assets/phoenix-adarna.gif" width="65%" alt="Phoenix Animation" />
 </td>
   </tr>
 </table>
