@@ -37,9 +37,8 @@ I perform well in high-pressure environments and value teamwork in transforming 
     </td>
 
     <td width="40%" align="center" valign="middle" style="border: none;">
-      <img src="assets/boy2.jpeg" width="85%" style="border-radius: 15px;" alt="Developer Illustration" />
-      <br><br>
-      <img src="assets/Robot Happy.gif" width="85%" style="border-radius: 15px;" alt="Robot Illustration" />
+      <img src="assets/boy2222.jpeg" width="90%" style="border-radius: 15px;" alt="Developer Illustration" />
+      <img src="assets/robo2323.gif" width="90%" style="border-radius: 15px;" alt="Robot Illustration" />
     </td>
   </tr>
 </table>
@@ -139,5 +138,5 @@ I perform well in high-pressure environments and value teamwork in transforming 
 </table>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Unbounded&weight=600&size=18&duration=1&pause=1000000&color=D4A574&center=true&vCenter=true&width=800&lines=✨+This+README+is+crafted+with+intent+by+Rahul+Manna+✨" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Unbounded&weight=600&size=18&duration=1&pause=1000000&color=00FFAB&center=true&vCenter=true&width=800&lines=✨This+README+is+crafted+with+dedication+by+Rahul+Manna+✨" />
 </p>
