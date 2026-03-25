@@ -39,7 +39,7 @@ I perform well in high-pressure environments and value teamwork in transforming 
     <td width="40%" align="center" valign="middle" style="border: none;">
       <img src="assets/boy2.jpeg" width="85%" style="border-radius: 15px;" alt="Developer Illustration" />
       <br><br>
-      <img src="assets/robo2.jpeg" width="85%" style="border-radius: 15px;" alt="Robot Illustration" />
+      <img src="assets/Robot Happy.gif" width="85%" style="border-radius: 15px;" alt="Robot Illustration" />
     </td>
   </tr>
 </table>
