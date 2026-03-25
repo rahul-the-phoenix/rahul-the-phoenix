@@ -9,7 +9,7 @@
 </table>
   </p>
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Unbounded&weight=800&size=36&duration=1600&pause=600&color=00D2FF&center=true&vCenter=true&width=850&lines=01010010+01000010+01001000+01010101+01001100;Hey+there+👋;This+is+Rahul+Manna;Aspiring+Software+Developer;IoT+Automation+Enthusiast+🤖;%3C<ERROR>%3E+LOADING...;The+Phoenix+is+Rising+🐦‍🔥...;System+Online+✅" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Unbounded&weight=800&size=36&duration=1600&pause=600&color=00D2FF&center=true&vCenter=true&width=850&lines=0101001+0100010+0100100+0101101+0100100;Hey+there+👋;This+is+Rahul+Manna;Aspiring+Software+Developer;IoT+Automation+Enthusiast+🤖;%3C<ERROR%3E+LOADING...;The+Phoenix+is+Rising+🐦‍🔥...;System+Online+✅" />
 </h1>
 
 <table style="border: none; border-collapse: collapse; width: 100%;">
@@ -37,8 +37,8 @@ I perform well in high-pressure environments and value teamwork in transforming 
     </td>
 
     <td width="40%" align="center" valign="middle" style="border: none;">
-      <img src="assets/boy2222.jpeg" width="90%" style="border-radius: 15px;" alt="Developer Illustration" />
-      <img src="assets/robo2323.gif" width="90%" style="border-radius: 15px;" alt="Robot Illustration" />
+      <img src="assets/boy2222.jpeg" width="100%" style="border-radius: 15px;" alt="Developer Illustration" />
+      <img src="assets/robo2323.gif" width="80%" style="border-radius: 15px;" alt="Robot Illustration" />
     </td>
   </tr>
 </table>
