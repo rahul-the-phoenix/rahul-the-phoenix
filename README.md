@@ -9,7 +9,7 @@
 </table>
   </p>
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Unbounded&weight=800&size=36&duration=1600&pause=600&color=00D2FF&center=true&vCenter=true&width=850&lines=0101001+0100010+0100100+0101101+0100100;Hey+there+👋;This+is+Rahul+Manna;Aspiring+Software+Developer;IoT+Automation+Enthusiast+🤖;%3C<ERROR%3E+LOADING...;The+Phoenix+is+Rising+🐦‍🔥...;System+Online+✅" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Unbounded&weight=800&size=36&duration=1500&pause=500&color=00D2FF&center=true&vCenter=true&width=850&lines=0100010+0100100+0101101;Hey+there+👋;This+is+Rahul+Manna;Aspiring+Software+Developer;IoT+Automation+Enthusiast+🤖;%3C<ERROR%3E+LOADING...;The+Phoenix+is+Rising+🐦‍🔥...;System+Online+✅" />
 </h1>
 
 <table style="border: none; border-collapse: collapse; width: 100%;">
@@ -47,8 +47,8 @@ I perform well in high-pressure environments and value teamwork in transforming 
   <tr>
     <td align="center" valign="top" style="padding: 50px; border: 1px solid #30363d; border-radius: 10px;">
       <h3 align="center">💻 Programming Languages  </h3>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="50" height="40"/>&nbsp;
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="50" height="40"/>&nbsp;
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="45" height="40"/>&nbsp;
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="45" height="40"/>&nbsp;
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50" height="40"/>&nbsp;
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="50" height="40"/>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="50" height="35"/>&nbsp;
@@ -63,7 +63,7 @@ I perform well in high-pressure environments and value teamwork in transforming 
    <img src="assets/git.jpeg" width="45" alt="git"/>&nbsp;
    <img src="assets/matlab5.jpeg" width="40" alt="matlab"/>&nbsp;
   <img src="assets/numpy5.jpeg" width="45" alt="numpy"/>&nbsp;
-  <img src="assets/linux.jpeg" width="45" alt="Linux"/>&nbsp;
+  <img src="assets/linux.jpeg" width="40" alt="Linux"/>&nbsp;
  
   <img src="assets/vercel5.jpeg" width="40" alt="vercel"/>&nbsp; 
   <img src="assets/mysql.jpeg" width="45" alt="mysql"/>&nbsp;
