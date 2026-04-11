@@ -31,7 +31,7 @@ I perform well in high-pressure environments and value teamwork in transforming 
 
 - 🥇 <b>Winner</b> – Innovative Model Competition @ MCKV Institute of Engineering
 - 🥈 <b>Second Runner-Up</b> – Microshift @ MCKV Institute of Engineering  
-- 🥈 <b>Third Runner-Up</b> – ICCPDM 2K26 @ Heritage Institute of Technology, KOLKATA 
+- 🥈 <b>Third Runner-Up</b> – ICCPDM 2K26 @ Heritage Institute of Technology
   
  
 
