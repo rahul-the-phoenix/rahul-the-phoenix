@@ -120,7 +120,9 @@ I perform well in high-pressure environments and value teamwork in transforming 
   🧩 Problem solver by habit, Engineer by mindset..
 </p>
 
-<h3 align="center">🌐 Let’s Connect</h3>
+<h3 align="center">🌐 Let’s Connect 
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40">
+</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/rahul-manna-98980039b/"><img src="assets/linkedin2.jpeg" width="45"/></a>
   &nbsp;&nbsp;
@@ -138,6 +140,42 @@ I perform well in high-pressure environments and value teamwork in transforming 
   </tr>
 </table>
 
+<!-- Support Section -->
+<h2 align="center">
+  ☕ Support My Work
+</h2>
+
+<p align="center">
+  <i>If you like my work and want to support me, consider buying me a coffee!</i>
+  <br><br>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/>
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#EA4AAA"/>
+  </a>
+</p>
+
+<!-- Footer -->
+
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Unbounded&weight=600&size=18&duration=1&pause=1000000&color=00FFAB&center=true&vCenter=true&width=800&lines=✨This+README+is+crafted+with+dedication+by+Rahul+Manna+✨" />
 </p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
+</p>
+
+<p align="center">
+  <b>© 2024 Rahul Manna | The Phoenix Rises 🐦‍🔥</b>
+</p>
+
+<!-- Hidden Easter Egg -->
+<!-- 
+  ╔══════════════════════════════════════════════════════════════╗
+  ║  If you're reading this, you're awesome! Keep coding! 🚀    ║
+  ║  "The best error message is the one that never shows up."    ║
+  ╚══════════════════════════════════════════════════════════════╝
+-->
+
